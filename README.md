@@ -1,7 +1,5 @@
 # Signal, Not Hype
-
 > Turn AI claims into testable questions
-
 An evidence-first AI research skill that turns AI claims
 into testable questions.
 
